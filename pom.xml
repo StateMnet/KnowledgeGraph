@@ -27,6 +27,19 @@
             <artifactId>spring-boot-starter-web</artifactId>
             <version>3.1.10</version>
         </dependency>
+
+        <!--http请求工具hutool-->
+        <dependency>
+            <groupId>cn.hutool</groupId>
+            <artifactId>hutool-all</artifactId>
+            <version>5.8.10</version>
+        </dependency>
+
+        <dependency>
+            <groupId>org.projectlombok</groupId>
+            <artifactId>lombok</artifactId>
+        </dependency>
+
     </dependencies>
 
 </project>
